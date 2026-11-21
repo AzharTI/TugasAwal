@@ -1,0 +1,32 @@
+
+print("Fadel : Hai, perkenalkan nama aku Neonimus")
+print("Ritem : Halo, salam kenal juga neonimus, aku Ritem")
+print("Fadel : Senang bisa bertemu denganmu Ritem, aku harap kita bisa menjadi teman baik")
+print("Ritem : Tentu saja, aku juga senang bisa bertemu denganmu Fadel. Aku yakin kita bisa menjadi teman baik")
+print("Mereka pun mulai mengobrol lebih dalam dan saling mengenal sepanjang jam pelajaran")
+
+
+print("Admine : Halo!, aku Admine, aku ingin menawarkan permainan yang bisa menghasilkan uang secara instant, apakah kalian tertarik?")
+print("Fadel : Wah, terdengar menarik, aku tertarik untuk mencoba permainan itu")
+print("Ritem : Aku juga tertarik, mari kita coba permainan itu")
+print("Admine : Baiklah, sini kalian ikut denganku ke kantorku, aku akan menjelaskan cara bermainnya dan bagaimana cara menghasilkan uang dari permainan ini")
+print("Mereka pun pergi ke kantor Admine dan dalam perjalanan mereka mulai menanyakan tentang permainan itu dan bagaimana cara menghasilkan uang dari permainan tersebut")
+
+
+print("Dalam perjalanan, Admine menjelaskan bahwa permainan ini adalah sebuah game online yang bisa dimainkan diinternet")
+print("Ritem : Gimana cara aku menginsstall game ini di hp ku?")
+print("Admine : Kamu bisa mengunduhnya di google disitus 888gacorwinmega, dan setelah itu kamu bisa mendaftar akunmu dan mulai bermain")
+print("*Fadel dan Ritem pun langsung mengunduh game tersebut dan mencoba untuk daftar akun")
+print("Admine : Yasudah aku mau lapor dulu ya ke bosku karena kalian baru masuk")
+print("Boss : ada apa ke ruanganku mine?")
+print("Admine : ada dua orang yang ingin kerja di bagian internet boss, mereka ingin mencoba permainan yang bisa menghasilkan uang.")
+print("Boss : baiklah, suruh mereka masuk ke ruanganku.")
+print("Fadel dan Ritem pun masuk ke ruangan bos dan mereka mulai berbicara tentang permainan itu dan bagiamana cara menghasilkan uang dari permainan tersebut.")
+print("Boss : baiklah, aku akan menjelaskan cara bermainnya dan bagaimana cara menghasilkan uang dari permaianan ini.")
+print("setelah mereka mnendengarkan penjelasan dari bos, mereka pun mulai bermain permainan itu dan mencoba untuk menghasilkan uang dari permainan tersebut.")
+print("Admine : kalian sudah menngerti kan cara bermainnya dan bagaimana cara menghasilkan uang dari permainan ini?")
+print("mereka berdua pun mengangguk dan mengatakan bahwa mereka sudah mengerti cara bermainnya dan bagaimana cara menghasilkan uang dari game tersebut.")
+print("Admine : baiklah, aku akan memberikan kalian beberapa tips dan trik untuk bisa menghasilkan uang dari permainan ini.")
+print("Fadel : Wah, terima kasih banyak Admine, aku akan mencoba untuk mengikuti tips dan trik yang kamu berikan.")
+print("setelah mereka bermain game ini selama 5 bulan penuh, mereka pun berhasil mmenghasilkan uang dari permainan ini  mereka pun menjadi kaya raya.")
+print("BERSAMBUNG")
