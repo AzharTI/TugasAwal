@@ -1,0 +1,123 @@
+header {
+    padding: 3px;
+    color: rgba(232, 243, 34, 0.96);
+    background-color: crimson;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
+}
+
+.info p {
+    padding: 7px;
+    border-bottom: 1px solid;
+}
+
+body {
+    background-color: #ffffff;
+    color: rgb(48, 47, 47);           
+    font-family: Arial, sans-serif;
+    margin: 0;
+    line-height: 1.5;          
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode {
+    background-color: #1a1a1a; 
+    color: #f0f0f0;            
+}
+
+body.dark-mode section {
+    background-color: rgb(57, 57, 57);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+section {
+    border: 1px solid;
+    padding: 20px;
+    border-color:rgba(232, 243, 34, 0.96);
+    margin: 40px;
+    box-shadow: 0 2px 4px;
+
+}
+
+img {
+    width: 100px;
+    height: 100%;
+    border: 2px solid #f0ba08;
+    border-radius: 50%;        
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+table {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 5px;
+}
+
+table, th, td {
+    border: 1px solid currentColor; 
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+th {
+    background-color: crimson;     
+    color:rgba(232, 243, 34, 0.96);                  
+}
+
+td {
+    text-align: left;
+}
+
+input[type="text"] {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-right: 5px;
+}
+
+button {
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    border: none;
+    background-color: rgb(237, 34, 75);
+    color: rgb(255, 254, 254);
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: rgb(195, 20, 55); 
+}
+
+footer {
+    margin-top: 15px;
+    padding: 5px;
+    background-color: crimson;
+    font-size: 0.9em;
+    color: #f3ff09;
+    text-align: center;
+}
+
+.list-Hobi {
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.kontak {
+    padding: 15px;
+}
+
+.sapaDiri {
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 4px;
+}

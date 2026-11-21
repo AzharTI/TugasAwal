@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile Saya</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<style>
+    table,th,td {
+        border: 1px solid rgba(232, 243, 34, 0.96);
+        border-collapse: collapse;
+        padding: 8px;
+    }
+    td {
+        text-align: left;
+    }
+</style>
+
+<body>
+
+<header>
+    <h1>Halo Semua! Ini adalah Profil Tentang Saya</h1>
+
+<div style="margin-bottom: 20px;">
+     <button id="tema" onclick="toggleTheme()">Mode Gelap</button>
+</div>
+</header>
+
+<main>
+<section>
+    <h2>BIODATA</h2>
+<div class="info">
+    <h3>Perkenalkan!</h3>
+    <img src="fotok.jpg.jpeg" alt="foto profile" width="125" class="profill">
+    <p><strong>Nama:</strong> Azhar Nabil Faturahman</p>
+    <p><strong>TTL:</strong> Bogor, 17 Juni 2012</p>
+    <p><strong>Alamat:</strong> Griya Bukit Jaya, Gunung Putri</p>
+    <p><strong>Sekolah:</strong> SMKN 1 Gunung Putri</p>
+    <p><strong>Kelas:</strong> X RPL 3</p>
+    <p><strong>Motto Hidup:</strong> Jadilah lebih baik 1% dari sebelumnya.</p>
+</div>
+</section>
+
+<section>
+<div class="list-Hobi">
+        <p><strong>Daftar Hobi:</strong></p>
+        <ul>
+          <li>Bermain Game</li>
+          <li>Menonton Podcast</li>
+          <li>Berolahraga</li>
+          <li>Bersepeda</li>
+        </ul>
+</div>
+</section>
+
+<section>
+<div class="tabelJadwal">
+    <p><strong>Jadwal Kegiatan:</strong></p>
+        <table>
+            <tr>
+                <th>NO</th>
+                <th>HARI</th>
+                <th>KEGIATAN</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Senin</td>
+                <td>Sekolah</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Selasa</td>
+                <td>Sekolah</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Rabu</td>
+                <td>Sekolah</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Kamis</td>
+                <td>Sekolah</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Jumat</td>
+                <td>Sekolah</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Sabtu</td>
+                <td>Ekstrakurikuler</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Minggu</td>
+                <td>Berlibur</td>
+            </tr>
+        </table>
+</div>
+</section>
+
+<section>
+<div class="sapaDiri">
+      <h3>Coba Menyapa Dirimu:</h3>
+      <input type="text" id="Nama" placeholder="Ketikkan namamu...">
+      <button onclick="sapaUser()">Sapa!</button>
+      <p id="hasil"></p>
+</div>
+</section>
+
+<section>
+<div class="kontak">
+        <p><strong>Contact Me:</strong></p>
+        <ul>
+            <li>Email: azharnabilfatur@gmail.com</li>
+            <li>No. HP: 08121062****</li>
+        </ul>
+</div>
+</section>
+</main>
+
+<footer>
+    <p>&copy; Dan itulah tentang saya, Terima kasih!</p>
+</footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
